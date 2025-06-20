@@ -1,6 +1,4 @@
 
-import React from 'react';
-
 const PlaceholderImage = () => {
   return (
     <div className="hidden lg:flex items-center justify-center">
